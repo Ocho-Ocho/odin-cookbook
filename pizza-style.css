@@ -1,0 +1,18 @@
+body{
+    background-color: darkgray;
+}
+img {
+    height: auto;
+    width: 500px;
+  }
+.header{
+    text-align: center;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;}
+
+    div.d {
+        line-height: 300%;}
